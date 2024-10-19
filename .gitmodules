@@ -13,3 +13,6 @@
 [submodule "chitchat-infra"]
 	path = chitchat-infra
 	url = https://github.com/L3xLabs/chitchat-infra.git
+[submodule "chitchat-react-sdk"]
+	path = chitchat-react-sdk
+	url = https://github.com/L3xLabs/chitchat-react-sdk.git

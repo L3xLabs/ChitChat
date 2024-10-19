@@ -10,3 +10,6 @@
 [submodule "chitchat-android"]
 	path = chitchat-android
 	url = https://github.com/L3xLabs/chitchat-android.git
+[submodule "chitchat-infra"]
+	path = chitchat-infra
+	url = https://github.com/L3xLabs/chitchat-infra.git

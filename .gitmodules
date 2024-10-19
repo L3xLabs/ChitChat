@@ -1,0 +1,12 @@
+[submodule "chitchat-web-client"]
+	path = chitchat-web-client
+	url = https://github.com/L3xLabs/chitchat-web-client.git
+[submodule "chitchat-ios"]
+	path = chitchat-ios
+	url = https://github.com/L3xLabs/chitchat-ios.git
+[submodule "chitchat-desktop"]
+	path = chitchat-desktop
+	url = https://github.com/L3xLabs/chitchat-desktop.git
+[submodule "chitchat-android"]
+	path = chitchat-android
+	url = https://github.com/L3xLabs/chitchat-android.git

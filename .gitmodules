@@ -1,0 +1,18 @@
+[submodule "chitchat-deploy-service"]
+	path = chitchat-deploy-service
+	url = https://github.com/L3xLabs/chitchat-deploy-service.git
+[submodule "chitchat-web-client"]
+	path = chitchat-web-client
+	url = https://github.com/L3xLabs/chitchat-web-client.git
+[submodule "chitchat-infra"]
+	path = chitchat-infra
+	url = https://github.com/L3xLabs/chitchat-infra.git
+[submodule "chitchat-deploy-service"]
+	path = chitchat-deploy-service
+	url = https://github.com/L3xLabs/chitchat-deploy-service.git
+[submodule "chitchat-deploy-service"]
+	path = chitchat-deploy-service
+	url = https://github.com/L3xLabs/chitchat-deploy-service.git
+[submodule "next-auth-complete"]
+	path = next-auth-complete
+	url = https://github.com/L3xLabs/next-auth-complete
